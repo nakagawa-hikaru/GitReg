@@ -7,6 +7,7 @@ namespace GitReg
 		static void Main(string[] args)
 		{
 			Console.WriteLine("Hello World!");
+			Console.WriteLine("Gitに登録したよ");
 		}
 	}
 }
